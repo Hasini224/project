@@ -1,0 +1,23 @@
+CLOUD COMPUTING-Study of infra
+ 
+
+infra-servers,databases,loadbalancers,vir network,routers
+
+server-Ram,ssd,hdd,processor,motherboard,nic,
+
+
+CLOUD FEATURES:
+
+1.pay as you go
+2.cost optimization
+3.high availability
+4.scalability
+5.elasticity
+6.scale economy
+
+-Virtualization
+ ntg but actual
+
+ -500 gb 500 tb
+  
+  16 gb 20 tb
